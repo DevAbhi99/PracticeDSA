@@ -1,0 +1,37 @@
+Day 1: Java Fundamentals & Core Concepts
+Review OOP concepts: Inheritance, Polymorphism, Encapsulation, Abstraction.
+Understand Java Collections Framework: Lists, Sets, Maps, Stacks, Queues.
+Practice basic Java syntax: Loops, conditionals, functions, exception handling.
+Platforms: Java Docs, W3Schools, or GeeksforGeeks (Java basics).
+
+
+Day 2: Data Structures
+Study and implement:
+Arrays and Strings (common manipulation techniques).
+Linked Lists (single, double).
+Stacks and Queues (use cases and implementations).
+Solve related problems on LeetCode or HackerRank.
+
+Day 3: Algorithms - Sorting & Searching
+Understand and implement:
+Sorting algorithms: Bubble, Selection, Insertion, Merge Sort, Quick Sort.
+Binary Search and variations.
+Solve algorithm challenges focusing on sorting/searching.
+
+
+Day 4: Recursion, Backtracking, and Dynamic Programming
+Practice recursion and basic backtracking problems.
+Learn fundamental Dynamic Programming concepts: memoization, tabulation.
+Solve problems like Fibonacci, Subset Sum, and Knapsack.
+
+Day 5: Problem-Solving Practice (Mixed Difficulty)
+Solve 6–8 problems of varying difficulty on LeetCode/CodeSignal focusing on:
+Arrays & Strings
+HashMaps/Sets
+Trees/Graphs (basic traversal: BFS, DFS)
+Recursion/DP
+
+Day 6: Mock Interview & Review
+Take a full-length mock interview (1.5 hours) using platforms like Pramp or Interviewing.io.
+Review previous problems and note patterns in solutions.
+Brush up on Java-specific syntax and common pitfalls.
